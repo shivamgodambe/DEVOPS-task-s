@@ -1,6 +1,4 @@
-# DEVOPS-task-s
-
-...... STUDENT APP USING DOCKER .......
+#  STUDENT APP USING DOCKER
 
 Steps:
 
