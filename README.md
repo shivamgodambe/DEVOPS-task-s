@@ -42,3 +42,5 @@ Build and run the frontend container:
 Access the Application:
 
 Access the application by hitting the public IP on a web browser to interact with the student app and add data.
+
+# Anguler java project using docker
