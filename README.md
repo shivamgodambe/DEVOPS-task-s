@@ -47,11 +47,11 @@ Access the application by hitting the public IP on a web browser to interact wit
 This project demonstrates how to set up an Angular frontend and Java backend using Docker. It also involves setting up a MariaDB database and connecting the application to an RDS instance.
 
 ## Prerequisites
-An AWS EC2 instance (Ubuntu)
-SSH access to the instance
-Docker installed on the EC2 instance
-An RDS instance for the database
-Git installed on the EC2 instance
+1.An AWS EC2 instance (Ubuntu)
+2.SSH access to the instance
+3.Docker installed on the EC2 instance
+4.An RDS instance for the database
+5.Git installed on the EC2 instance
 
 Steps to Set Up the Project
 1. Create an EC2 Instance and SSH into it
